@@ -1,0 +1,37 @@
+[
+    {
+        "path": "image1",
+        "description": "Stage Concept Art",
+        "title": "Concept Art"
+    },
+    {
+        "path": "image3",
+        "description": "Opponents Concept Art",
+        "title": "Concept Art"
+    },
+    {
+        "path": "image4",
+        "description": "Stage Concept Art",
+        "title": "Concept Art"
+    },
+    {
+        "path": "image5",
+        "description": "Stage / Phase Concept Art",
+        "title": "Concept Art"
+    },
+    {
+        "path": "image6",
+        "description": "Stage / Phase Concept Art 2",
+        "title": "Concept Art"
+    },
+    {
+        "path": "image7",
+        "description": "Players Concept Art",
+        "title": "Concept Art"
+    },
+    {
+        "path": "image2",
+        "description": "Uh..",
+        "title": "idk"
+    }
+]
